@@ -1,0 +1,442 @@
+{
+  "on": true,
+  "bri": 148,
+  "transition": 7,
+  "ps": -1,
+  "pl": -1,
+  "nl": {
+    "on": true,
+    "dur": 1,
+    "mode": 1,
+    "tbri": 0,
+    "rem": 2091
+  },
+  "udpn": {
+    "send": false,
+    "recv": true
+  },
+  "lor": 0,
+  "mainseg": 0,
+  "seg": [
+    {
+      "id": 0,
+      "start": 0,
+      "stop": 12,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          255,
+          160,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 1,
+      "start": 12,
+      "stop": 24,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          102,
+          153,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 2,
+      "start": 24,
+      "stop": 36,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          0,
+          204,
+          51
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 3,
+      "start": 36,
+      "stop": 48,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          0,
+          51,
+          204
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 4,
+      "start": 48,
+      "stop": 60,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          102,
+          0,
+          153
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 5,
+      "start": 60,
+      "stop": 72,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 6,
+      "start": 72,
+      "stop": 84,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          105,
+          150,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 7,
+      "start": 84,
+      "stop": 96,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          0,
+          207,
+          48
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": true,
+      "mi": false
+    },
+    {
+      "id": 8,
+      "start": 96,
+      "stop": 108,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          0,
+          54,
+          201
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 9,
+      "start": 108,
+      "stop": 120,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          99,
+          0,
+          156
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 10,
+      "start": 120,
+      "stop": 132,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          252,
+          0,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    },
+    {
+      "id": 11,
+      "start": 132,
+      "stop": 144,
+      "len": 12,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "bri": 255,
+      "col": [
+        [
+          108,
+          147,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 16,
+      "sx": 9,
+      "ix": 174,
+      "pal": 63,
+      "sel": true,
+      "rev": false,
+      "mi": false
+    }
+  ]
+}
